@@ -16,7 +16,7 @@
         <mxCell id="C6gaotGxgLFd2unwDD3p-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6gaotGxgLFd2unwDD3p-3" target="C6gaotGxgLFd2unwDD3p-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C6gaotGxgLFd2unwDD3p-3" value="以太网通讯获取振动信息" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="C6gaotGxgLFd2unwDD3p-3" value="以太网通讯获取振动信息" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="69" y="160" width="236" height="54" as="geometry" />
         </mxCell>
         <mxCell id="C6gaotGxgLFd2unwDD3p-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6gaotGxgLFd2unwDD3p-4" target="C6gaotGxgLFd2unwDD3p-5">
@@ -31,7 +31,7 @@
         <mxCell id="C6gaotGxgLFd2unwDD3p-6" value="点击开始预测" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="253" y="350" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="C6gaotGxgLFd2unwDD3p-7" value="以太网通讯获取边缘端诊断结果" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="C6gaotGxgLFd2unwDD3p-7" value="以太网通讯获取边缘端诊断结果" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="213" y="441" width="236" height="54" as="geometry" />
         </mxCell>
         <mxCell id="C6gaotGxgLFd2unwDD3p-8" value="显示诊断结果" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -69,7 +69,7 @@
         <mxCell id="C6gaotGxgLFd2unwDD3p-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6gaotGxgLFd2unwDD3p-18" target="C6gaotGxgLFd2unwDD3p-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C6gaotGxgLFd2unwDD3p-18" value="调用子VI采集数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="C6gaotGxgLFd2unwDD3p-18" value="调用子VI采集数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="670" y="154" width="186" height="54" as="geometry" />
         </mxCell>
         <mxCell id="C6gaotGxgLFd2unwDD3p-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6gaotGxgLFd2unwDD3p-19" target="C6gaotGxgLFd2unwDD3p-20">
@@ -106,16 +106,16 @@
         <mxCell id="C6gaotGxgLFd2unwDD3p-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6gaotGxgLFd2unwDD3p-22" target="C6gaotGxgLFd2unwDD3p-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C6gaotGxgLFd2unwDD3p-22" value="点击数据保存" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="C6gaotGxgLFd2unwDD3p-22" value="点击数据保存" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="939" y="344" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="C6gaotGxgLFd2unwDD3p-23" value="利用数据进行诊断" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="C6gaotGxgLFd2unwDD3p-23" value="利用数据进行诊断" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="670" y="441" width="188" height="54" as="geometry" />
         </mxCell>
         <mxCell id="C6gaotGxgLFd2unwDD3p-24" value="显示返回值" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="694" y="531" width="140" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="C6gaotGxgLFd2unwDD3p-25" value="按规定路径保存振动数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="C6gaotGxgLFd2unwDD3p-25" value="按规定路径保存振动数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="899" y="440" width="236" height="54" as="geometry" />
         </mxCell>
         <mxCell id="C6gaotGxgLFd2unwDD3p-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="C6gaotGxgLFd2unwDD3p-23" target="C6gaotGxgLFd2unwDD3p-24">
